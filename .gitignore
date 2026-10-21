@@ -1,0 +1,9 @@
+# Created by uv sync, pytest and coverage
+.venv/
+__pycache__/
+.pytest_cache/
+.coverage
+
+# Editor settings
+.idea/
+.vscode/
